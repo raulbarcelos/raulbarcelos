@@ -44,7 +44,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" onclick="return false;">
 </p>
 
-## Design Skills e portifólio
+## Design Skills
 
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
@@ -56,7 +56,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg">
 </p>
 
- ## Contato 
+ ## Contato e portifólio
 
 <p align="center">
     <a href="https://github.com/raulbarcelos">
