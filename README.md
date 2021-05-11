@@ -1,11 +1,11 @@
 # Sobre mim
- Gerenciar o README do perfil
+ Meu nome é Raul Barcelos, nascido em Ipatinga/MG
 
 
 ### Informações
 
-- 🌱 Estudante de Sistemas de Informação.
-- 💙 Interesses: Python, JavaScript, Java, C#, AWS.
+- 🌱 Estudante de Sistemas de Informação na UFVJM.
+- 💙 Interesses: Python, JavaScript, Java, C#, AWS, React, .net, ASP.net, Intetligencia Artificial.
 
 
 ## Skills
